@@ -1,3 +1,4 @@
 print('hi')
 print('kek')
-print('qq')
+for i in range(10):
+    print('qq')
